@@ -4,4 +4,5 @@ torch
 datasets
 tqdm
 scikit-learn
-
+jupyter
+notebook
